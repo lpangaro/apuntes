@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "PdeParillada:lib"
+
+    - path: "./test"
+      component: "PdeParillada:test:PdeParillada-test"

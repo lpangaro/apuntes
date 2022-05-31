@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "modeloParcial:lib"
+
+    - path: "./test"
+      component: "modeloParcial:test:modeloParcial-test"
